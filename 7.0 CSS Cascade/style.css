@@ -2,7 +2,15 @@
 
 #outer-box {
   background-color: purple;
+<<<<<<< HEAD
   padding: 8px;
+=======
+<<<<<<< HEAD
+  padding: 30px;
+=======
+  padding: 8px;
+>>>>>>> 834bc27e9dcfa000f2a672d948da3fa817822b06
+>>>>>>> 8e42f9109aebf78aff8738acc04b51f3b9b09da9
 }
 
 .box {
